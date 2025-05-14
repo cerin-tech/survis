@@ -1,0 +1,163 @@
+﻿id,title,authors ,year,abstract,keywords,type, purpose,methods,data ,findings,strengths,limitations,relevance,url
+ali2018exploring,"Exploring Relationships between Museum Artefacts 
+through Spatial Interaction","Susan Ali, Ben Bedwell, 
+Boriana Koleva",2018,"Visual markers, in particular QR codes, have become 
+widely adopted in museums to enable low cost interactive 
+applications. However, visitors often do not engage with 
+them. In this paper we explore the application of visual 
+makers that can be designed to be meaningful and that can 
+be created by visitors themselves. We study both the use of 
+these markers as labels for portraits that link to audio 
+recordings and as a mechanism for visitors to contribute 
+their own reflections to the exhibition by drawing a marker 
+and linking an audio comment. Our findings show visitors 
+appreciated the use of the aesthetic markers and engaged 
+with them at three levels – physical placement, aesthetic 
+content and digital content. We suggest that these different 
+levels need to be considered in the design of future visiting 
+systems, which make use of such markers, to ensure they 
+are mutually supporting in shaping the experience.","Museum installation, interactive map, visual markers, 
+physical configuration, artefact relationships",Interactive Exhibits and Design,"To explore how visitors perceive the relationships 
+between exhibits through spatial interaction","Location-based interaction prototype, user observation",Museum field observations/interviews,Spatial arrangement influences visitors' understanding and memory of the relationships between exhibits,Highlights the role of spatial layout in human-computer interaction,"Lack of quantitative analysis, relies on small sample interviews","Strong relevance, involves HCI and spatial perception, suitable for AR layout design",https://doi.org/10.1145/3240167.3240217
+ali2018deepening,"Deepening Visitor Engagement with Museum Exhibits 
+through Hand-crafted Visual Markers","Susan Ali, Boriana Koleva, 
+Ben Bedwell, Steve Benford ",2018,"We propose a novel approach, which involves visitors 
+physically manipulating visual representations of artefacts 
+and scanning with their mobile phone different groups or 
+sequences of items in order to reveal digital information 
+about their relationships. To explore this interaction 
+mechanism we collaborated with a museum to develop an 
+interactive paper map, on which visitors can place tangible 
+representations of artefacts and scan the resulting 
+arrangements. Based on an in-situ study of its use, we reveal 
+that museum visitors engaged in different strategies for 
+exploration of relationships between artefacts in the museum 
+collection (inspection, strategic and experimental 
+configuration), and for social collaboration (sharing the 
+interaction space, adopting interaction roles and sharing a 
+reaction to the “reveal”). We discuss how future interactive 
+installations can accommodate these behaviours","Visual markers, mobile interaction, museums, galleries,
+visitor interpretation",Interactive Exhibits and Design,"To study how aesthetic visual markers (such as Artcodes)
+ enhance visitor interaction with exhibits","Custom visual markers + AR display, qualitative observation","Field deployment, visitor interviews",Hand-crafted marker design enhances engagement and immersion,Innovative integration of aesthetic design in interaction systems,Lacks evaluation of long-term effects,"Highly relevant, directly involves visual markers and interaction design",https://doi.org/10.1145/3196709.3196786
+boboc2022augmented,"Augmented Reality in Cultural Heritage: 
+An Overview of the Last Decade of Applications","Răzvan Gabriel Boboc, Elena Băutu, Florin Gîrbacia,
+ Norina Popovici, Dorin-Mircea Popovici ",2022,"Augmented reality is a mature technology that uses the real world as a substrate and
+extends it by overlaying computer-generated information. It has been applied to several domains. In
+particular, the technology was proven to be useful for the management and preservation of Cultural
+Heritage. This study provides an overview of the last decade of the use of augmented reality in
+cultural heritage through a detailed review of the scientific papers in the field. We analyzed the
+applications published on Scopus and Clarivate Web of Science databases over a period of 9 years
+(2012–2021). Bibliometric data consisted of 1201 documents, and their analysis was performed using
+various tools, including ScientoPy, VOS Viewer, and Microsoft Excel. The results revealed eight
+trending topics of applying augmented reality technology to cultural heritage: 3D reconstruction of
+cultural artifacts, digital heritage, virtual museums, user experience, education, tourism, intangible
+cultural heritage, and gamification. Each topic is discussed in detail in the article sections, providing
+insight into existing applications and research trends for each application field.","3D reconstruction, digital heritage, virtual museums, user experience, education, tourism,
+intangible cultural heritage, gamification, survey",Augmented Reality (AR) and Virtual Reality (VR),"To review the research and applications of AR 
+in the cultural heritage field over the past decade",Literature review (systematic review),Multiple academic papers,"Summarizes AR application scenarios, technology evolution, challenges","Comprehensive and systematic, strong generalization","Lacks empirical data, theoretical in nature","Provides research background, helps identify gaps and trends",https://doi.org/10.3390/app12199859
+jiang2022study,"A Study of Factors Influencing the Continuance Intention
+ to the Usage of Augmented Reality in Museums","Qianling Jiang, Jiangjie Chen, 
+Yutong Wu, Chao Gu, Jie Sun ",2020,"Augmented reality (AR) technology has rapidly developed in recent years. This technology
+is widely used in various fields, including museum exhibitions, where people use it to experience
+art in a new way. While AR aims to realize the interaction between the virtual world and the real
+world, museums use AR to develop new digital artwork from artifacts. When text descriptions
+are no longer attractive to the audience, museums need to add more sound effects to images and
+video dynamics to develop a sustainable way for the industry’s future. For the continued use of
+such technology and the better development of the museum industry, this study used a structural
+equation model to explore the influences on the continuance intention of museum AR technology
+through experiments and questionnaires. Furthermore, it established a model with six dimensions:
+interaction quality, information quality, information richness, satisfaction, perceived playfulness, and
+continuance intention. Moreover, the results of this study can serve as a reference for managers to
+promote the extensive application of AR technology in museum construction, thereby providing
+visitors with better experiences and satisfying their needs","augmented reality, museum, continuance intention, interaction quality",Augmented Reality (AR) and Virtual Reality (VR),"To explore the factors influencing users' intention
+ to continue using AR exhibition applications",Quantitative questionnaire analysis + structural equation modeling,AR application user surveys,"Usability, immersion, and social influence significantly affect the intention to continue usage",Strong data support with statistical models,"Assumption models with many preset variables, cultural applicability to be verified","Helps understand user behavior, beneficial for designing user-centered HCI systems",https://doi.org/10.3390/systems10030073
+gonzalez2020survey,"Survey: Using Augmented Reality to Improve Learning Motivation
+in Cultural Heritage Studies","Juan Camilo González Vargas, Ramon Fabregat,
+ Angela Carrillo-Ramos, Teodor Jové ",2020,"Cultural Heritage (CH) refers to the representation of historical places and traditional
+customs of a specific city or country. Its principal aim is to transmit to future generations how their
+ancestors lived, and what their customs and buildings were like, etc. Nowadays, there are different
+technology systems and research investigations that are focused on CH education that use augmented
+reality (AR), virtual reality (VR), and mixed reality (MR). The aim of this document is to specifically
+identify if the use of AR improves students’ motivation to learn about topics related to CH. To this
+end, studies from different databases and specific journals, along with those concerning technology
+systems, were evaluated, and comparisons were made between them. Additionally, the aspects that
+should be considered in future research to improve student motivation and technology systems
+were identified","adaptive information, augmented reality, content co-creation, cultural heritage, inclusive
+learning, mixed reality, virtual reality",Augmented Reality (AR) and Virtual Reality (VR),"To evaluate the role of AR in enhancing learning motivation
+ in cultural heritage studies",Literature review + case analysis,Education and museum application cases,"AR effectively enhances learning motivation, memory, and engagement","Focuses on educational outcomes, suitable for teaching scenario design","Primarily a review, lacks unified evaluation indicators","Supports educationally-oriented HCI design, emphasizes motivation dimension",https://doi.org/10.3390/app10030897
+olaz2022interdisciplinary,"An Interdisciplinary Design of an Interactive Cultural Heritage Visit 
+for In-Situ, Mixed Reality and Affective Experiences","Xabier Olaz, Ricardo Garcia, Amalia Ortiz, Sebastián Marichal, 
+Jesús Villadangos, Oscar Ardaiz, Asier Marzo ",2020,"Interactive technologies, such as mixed-reality and natural interactions with avatars, can
+enhance cultural heritage and the experience of visiting a museum. In this paper, we present the
+design rationale of an interactive experience for a cultural heritage place in the church of Roncesvalles
+at the beginning of Camino de Santiago. We followed a participatory design with a multidisciplinary
+team which resulted in the design of a spatial augmented reality system that employs 3D projection
+mapping and a conversational agent acting as the storyteller. Multiple features were identified
+as desirable for an interactive experience: interdisciplinary design team; in-situ; mixed reality;
+interactive digital storytelling; avatar; tangible objects; gestures; emotions and groups. The findings
+from a workshop are presented for guiding other interactive cultural heritage experiences.","interaction, interdisciplinary design, interactive digital storytelling, emotional conversational avatars",Digital Heritage and Immersive Storytelling,"To design an immersive cultural heritage experience
+ combining art, computing, and emotional design","Mixed reality, emotional feedback analysis, interdisciplinary approach",Museum on-site testing + user feedback,Interdisciplinary approaches enhance visitor immersion and memory formation,"Integrates emotional factors, innovative methodology","Complex system, difficult to scale","Strong relevance, provides a framework for mixed reality and emotional interaction design",https://doi.org/10.3390/mti6070059
+king2025evaluating,"Evaluating Museum Exhibits: Quantifying Visitor Experience and Museum Impact 
+with User Experience Methodologies","Ellie King, M. Paul Smith, Paul F. Wilson, 
+Janet F. Stott, Mark A. Williams ",2020,"Underpinned by the Model for Museum Exhibit User 
+Experience (MEUX; King et al., Visitor Studies, 2023, 
+26, 59), this paper develops and presents an evaluation 
+methodology for museum exhibits that utilizes existing methodologies from the user experience sector 
+adapted for the museum and cultural heritage sectors. 
+Two studies are presented: an in-depth evaluation of 
+the Meat the Future exhibition at Oxford University 
+Museum of Natural History and then a comparative 
+study between this exhibition and two other permanent exhibits at the museum. Quantitative and qualitative data provide a nuanced picture of each exhibit 
+from the visitor perspective and showcase the benefits 
+of the MEUX methods of evaluation. Results show 
+how three different exhibits are constructed in different ways, providing different visitor experiences and 
+outcomes. They are directly compared with identify 
+statistical differences, but do not impose a judgment 
+as to whether any exhibit is better than another. With 
+detailed, nuanced and rigorous data capturing visitor experiences of engaging with exhibits, the MEUX 
+evaluation methodology allows for more sophisticated, 
+standardized and efficient evaluation practices within 
+the sector, with results that directly support further development of exhibits and exhibitions.","Museum Exhibit Evaluation,
+
+User Experience (UX),
+
+MEUX Methodology",Museum Evaluation and User Experience (UX),"To quantify the effects and impact of museum exhibits
+ using user experience methodologies","User experience scales (e.g., SUS, AttrakDiff), visitor surveys",Multiple museum cases,UX evaluation tools are applicable for optimizing display design in cultural settings,Provides quantitative evaluation methods,UX results are highly influenced by the type of exhibit content,Useful for designing and evaluating user experience dimensions in AR interaction systems,https://doi.org/10.1111/cura.12637
+argyriou2020design,"Design Methodology for 360° Immersive Video Applications:
+ The Case Study of a Cultural Heritage Virtual Tour","Lemonia Argyriou, Daphne Economou,
+ Vassiliki Bouki",2020,"Three hundred sixty–degree (360°) immersive video applications for Head Mounted Display (HMD) devices offer great potential
+in providing engaging forms of experiential media solutions especially in Cultural Heritage education. Design challenges emerge
+though by this new kind of immersive media due to the 2D form of resources used for their construction, the lack of depth, the
+limited interaction and the need to address the sense of presence. In addition, the use of Virtual Reality (VR) headsets often causes
+nausea, or motion sickness effects imposing further implications in moderate motion design tasks. This paper introduces a
+methodological categorisation of tasks and techniques for the design of 360° immersive video applications. Following the design
+approach presented, a testbed application has been created as an immersive interactive virtual tour at the historical centre of the
+city of Rethymno in Crete, Greece, which has undergone user trials. Based on the analysis of the results of this study, a set of
+design guidelines for the implementation of 360° immersive video virtual tours is proposed.","Virtual cultural heritage, Immersive video, Immersive storytelling, Design guidelines, Immersion, Experiential
+media",Digital Heritage and Immersive Storytelling,"To provide design methodology 
+for 360°immersive video applications",Design research + case application (VR video),Virtual tour system users,Spatial navigation cues and immersion design positively affect engagement,Focuses on spatial sense and visual guidance design,"Low interactivity, non-real-time AR","Relevant, supplements immersive visual storytelling techniques beyond AR",https://doi.org/10.1007/s00779-020-01373-8
+chen2024people,"Why People Use Augmented Reality in Heritage Museums:
+ A Socio-Technical Perspective","Yuangao Chen, Xini Wang, 
+Bin Le, Lu Wang",2024,"With the development of digital technologies, the use of augmented reality in the tourism sector has received 
+increasing attention. However, the understanding of the factors infuencing tourists’ post-experience intention with augmented reality devices is incomplete and there is a lack of empirical research. This study explores 
+the impact of AR technical factors, individual factors and situational factors on users’ post-experience AR usage 
+intention and destination revisit intention through satisfaction based on a socio-technical perspective. The survey 
+data collected from 254 visitors who visited the Liangzhu Museum using the corresponding AR glasses were analysed, and the results showed that the novelty of the technical aspect, the technology trust of the individual aspect 
+and the aesthetics, education and authenticity of the situational aspect infuenced visitors’ AR usage intention 
+and destination revisit intention through satisfaction. This study has an impact on future research on the application 
+of augmented reality technology to heritage museums.","augmented reality, heritage museum, Socio-technical perspective",Augmented Reality (AR) and Virtual Reality (VR),"To explore why people use 
+AR technology in heritage museums",Visitor surveys + qualitative analysis,AR experience users in museums,"Social value, curiosity, and technology appeal influence usage intention","Explores the social factors of ""why use""","Mainly subjective reports, lacks long-term data",Helps analyze user participation in AR systems from a motivational perspective,https://doi.org/10.1186/s40494-024-01217-1
+yin2021mobile,"Mobile Augmented Reality Heritage Applications:
+ Meeting the Needs of Heritage Tourists","Celine Zhao Ying Yin, Timothy Jung,
+ M. Claudia tom Dieck, Maria Younghee Lee",2021,"As competition intensifies, value co-creation with tourists is essential for successful implementation of mobile augmented reality (AR) heritage applications. This study therefore aims to
+identify heritage tourists’ needs and involvement when developing mobile AR heritage applications
+using a grounded theory approach. Since AR applications are still in their infancy in the tourism
+industry the grounded theory approach was employed. Fifty in-depth interviews were conducted in
+Macau’s World Heritage Sites. The interview transcripts were analyzed by the open coding method
+with the NVivo software, the process of axial coding and the selective coding method. This study
+generated new requirements for mobile AR heritage applications that reflect the needs of the Asian
+tourist market, which are different from those of the European tourist market. The characteristic
+of tourist empowerment and the association between co-creation and tourism were also identi-
+fied. This study contributes to provide a theoretical framework for designing mobile AR heritage
+applications and has implications for mobile AR application developers and tourism practitioners.","augmented reality, co-creation, tourist requirements, heritage tourism, Macau",Augmented Reality (AR) and Virtual Reality (VR),"To explore how mobile AR applications
+ meet the needs of heritage tourists",User behavior study + mobile AR application analysis,Cultural tourism scenarios,"Mobility, personalized information, and location accuracy are key factors","Focuses on tourism use cases, very practical","Highly dependent on technology, high hardware requirements","Closely related to real-world deployment scenarios, emphasizes mobile experience optimization",https://doi.org/10.3390/su13052523
